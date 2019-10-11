@@ -43,3 +43,7 @@ background-color:#2F4F4F;
     border: 1px solid #ccc;
   }
 }
+.h1 {
+	text-decoration: underline;
+	color: #00ccff;
+}
